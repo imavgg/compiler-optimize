@@ -1,6 +1,6 @@
 # Compiler Optimize
 
-This repository is the examples of the article [從 LLVM IR 來看編譯器最佳化在做些什麼](https://google.com)
+This repository is the examples of the article [從 LLVM IR 來看編譯器最佳化在做些什麼](https://larry850806.medium.com/see-what-compiler-optimization-do-from-llvm-ir-dfd3774292cb)
 
 ## How to setup the environment
 
