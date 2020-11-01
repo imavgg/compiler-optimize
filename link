@@ -1,5 +1,0 @@
-https://github.com/rust-embedded/cargo-binutils
-
-# cargo rustc -- --emit=llvm-ir
-# cargo rustc --release -- --emit=llvm-ir
-# cargo objdump --release -- --disassemble > main.s
