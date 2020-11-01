@@ -13,7 +13,7 @@ docker run -it -v ${PWD}:/workspace compiler_optimize_en
 
 ## Compile Rust code to LLVM IR
 
-Compile the code with the following script, and you can find the LLVM IR file in `target/{debug|release}/deps/*.ll`
+Compile the source code with the following script, and you can find the LLVM IR file in `target/{debug|release}/deps/*.ll`
 
 ### debug mode
 
