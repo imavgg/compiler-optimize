@@ -40,3 +40,12 @@ cargo objdump -- --disassemble > main.s
 ```bash
 cargo objdump --release -- --disassemble > main.s
 ```
+
+
+ <!-- author from: imavgg  -->
+## run
+
+```cargo run main.s```
+
+## Calculate runtime
+
